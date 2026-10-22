@@ -173,7 +173,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </WriteLine>
-                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click ;Clear Form'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,57.333333333333336" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="28ad58b1-4ebe-446b-8568-eb847b255ef6" Version="V5">
+                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click Clear Form" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,57.333333333333336" sap2010:WorkflowViewState.IdRef="NClick_3" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="28ad58b1-4ebe-446b-8568-eb847b255ef6" Version="V5">
                       <uix:NClick.Target>
                         <uix:TargetAnchorable ContentHash="Y3b-vEaBMU6rKa7IcTtBLA" DesignTimeRectangle="906, 417, 132, 44" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='TkChild' idx='14' /&gt;" Guid="7ce24ee1-8ea9-48d9-a7b3-1a99b7e2527b" InformativeScreenshot="d0183e4ea780f72f198afbc533e4512f.jpg" Reference="0lMcNlRVt0KFWWV5JL2NDQ/vvEbR5Lvkku8jfg1wEqGbw" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='The Automation Challenge | CRM App' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                       </uix:NClick.Target>
