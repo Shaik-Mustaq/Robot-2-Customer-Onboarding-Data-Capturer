@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8Kq5Alyj606to-jsWFyWmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e3de311f-0f6b-427e-929a-f2d8dcd00b8a" CvElementArea="226, 178, 112, 35" CvTextArea="269, 187, 27, 16" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="227, 178, 113, 35" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='2' title='OK' /&gt;" Guid="fcb3d984-c654-4e2e-95e1-02ff515d82ab" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='#32770' title='Success' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="44, 81, 48, 48" ElementType="Icon" FullSelectorArgument="&lt;wnd ctrlid='20' /&gt;" Guid="509426c4-0a89-4ee2-bc29-c288723a7f41" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ecbb85e652eca2684dd1a8aa622c0af9.jpg" xmlns="">0dELlBYMWaUyFe4fQmSNpZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ggdQzFuGYkGtWaOlVCKR9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a0da9e6c-89e2-47ef-af12-58aac38b9bd4" CvElementArea="1213, 415, 142, 47" CvTextArea="1230, 429, 108, 19" CvTextArgument="Refresh Table" CvType="Button" DesignTimeRectangle="1217, 417, 138, 44" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='TkChild' idx='12' /&gt;" Guid="7d0e31dd-5374-4702-8828-2496661c18c0" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='The Automation Challenge | CRM App' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a0da9e6c-89e2-47ef-af12-58aac38b9bd4" CvElementArea="1050, 415, 152, 47" CvTextArea="1067, 429, 119, 19" CvTextArgument="Add Customer" CvType="Button" DesignTimeRectangle="1053, 417, 149, 44" FullSelectorArgument="&lt;wnd cls='TkChild' idx='13' /&gt;" Guid="26fe8912-f2e2-4d44-a6c0-05395350bc07" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="200469a99f9e02f17556510da5a241f4.jpg" xmlns="">0niu24_o5gUSiPda8lvigIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

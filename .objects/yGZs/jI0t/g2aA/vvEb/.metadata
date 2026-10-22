@@ -1,0 +1,13 @@
+﻿{
+  "Name": "TkChild(1)",
+  "Type": "Element",
+  "Id": "vvEbR5Lvkku8jfg1wEqGbw",
+  "Reference": "0lMcNlRVt0KFWWV5JL2NDQ/vvEbR5Lvkku8jfg1wEqGbw",
+  "ParentRef": "0lMcNlRVt0KFWWV5JL2NDQ/g2aAnkKuEEWr0dF3ru-czQ",
+  "Created": "2026-10-22T08:08:39.5975809Z",
+  "Updated": "2026-10-22T08:08:39.5975809Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
