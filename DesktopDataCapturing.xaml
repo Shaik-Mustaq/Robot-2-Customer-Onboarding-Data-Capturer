@@ -106,7 +106,7 @@
       <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="DesktopDataCapturing" sap:VirtualizedContainerService.HintSize="882,1753.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="DesktopDataCapturing" sap:VirtualizedContainerService.HintSize="734,1753.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -184,12 +184,15 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NClick>
-                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="[UiPath.UIAutomationNext.Enums.NClickMode.Single]" DisplayName="Type Into 'TkChild(6)'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,248" sap2010:WorkflowViewState.IdRef="NTypeInto_5" InteractionMode="HardwareEvents" ScopeIdentifier="28ad58b1-4ebe-446b-8568-eb847b255ef6" Text="[CurrentRow(&quot;first name&quot;).ToString]" Version="V5">
+                    <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="[UiPath.UIAutomationNext.Enums.NClickMode.Single]" DisplayName="Type Into First Name" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,248" sap2010:WorkflowViewState.IdRef="NTypeInto_5" InteractionMode="HardwareEvents" ScopeIdentifier="28ad58b1-4ebe-446b-8568-eb847b255ef6" Text="[CurrentRow(&quot;first name&quot;).ToString]" Version="V5">
                       <uix:NTypeInto.Target>
                         <uix:TargetAnchorable ContentHash="29kGvESIzke2BwHKtSyOyA" DesignTimeRectangle="324, 159, 216, 41" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='TkChild' idx='33' /&gt;" Guid="37e04282-e877-4be4-8ea5-3f3266bc24ee" InformativeScreenshot="ecc0f4b3a3441759a58a9f2bb4f30945.jpg" Reference="0lMcNlRVt0KFWWV5JL2NDQ/FgIwq0QgxUq4LbV185bm_w" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='The Automation Challenge | CRM App' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                       </uix:NTypeInto.Target>
                       <uix:NTypeInto.VerifyOptions>
                         <uix:VerifyExecutionTypeIntoOptions Mode="Appears">
+                          <uix:VerifyExecutionTypeIntoOptions.Retry>
+                            <InArgument x:TypeArguments="x:Boolean" />
+                          </uix:VerifyExecutionTypeIntoOptions.Retry>
                           <uix:VerifyExecutionTypeIntoOptions.Timeout>
                             <InArgument x:TypeArguments="x:Double" />
                           </uix:VerifyExecutionTypeIntoOptions.Timeout>
@@ -208,6 +211,9 @@
                       </uix:NTypeInto.Target>
                       <uix:NTypeInto.VerifyOptions>
                         <uix:VerifyExecutionTypeIntoOptions Mode="Appears">
+                          <uix:VerifyExecutionTypeIntoOptions.Retry>
+                            <InArgument x:TypeArguments="x:Boolean" />
+                          </uix:VerifyExecutionTypeIntoOptions.Retry>
                           <uix:VerifyExecutionTypeIntoOptions.Timeout>
                             <InArgument x:TypeArguments="x:Double" />
                           </uix:VerifyExecutionTypeIntoOptions.Timeout>
