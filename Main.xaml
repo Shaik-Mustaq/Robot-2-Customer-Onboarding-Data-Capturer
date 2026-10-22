@@ -86,7 +86,7 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="882,644" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="845.3333333333334,644" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dt_ouput" />
     </Sequence.Variables>
@@ -95,7 +95,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message - Starting Workflow" sap:VirtualizedContainerService.HintSize="845.3333333333334,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Starting Main&quot;]" />
+    <ui:LogMessage DisplayName="Log Message - Starting Workflow!" sap:VirtualizedContainerService.HintSize="845.3333333333334,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Starting Main&quot;]" />
     <ui:ReadRange AddHeaders="True" DataTable="[dt_ouput]" DisplayName="Read Customer Data Workbook" sap:VirtualizedContainerService.HintSize="845.3333333333334,229.33333333333334" sap2010:WorkflowViewState.IdRef="ReadRange_1" SheetName="Sheet1" WorkbookPath="C:\Users\shaik\OneDrive\Documents\UiPath\UiPath projects\Robot 2 Customer Onboarding Data Capturer\Customer_Data.xlsx">
       <ui:ReadRange.Range>
         <InArgument x:TypeArguments="x:String">
