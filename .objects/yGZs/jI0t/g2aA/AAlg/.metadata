@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Address",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "AAlgnlcEVE-viwUtVjUwyg",
+  "Reference": "0lMcNlRVt0KFWWV5JL2NDQ/AAlgnlcEVE-viwUtVjUwyg",
+  "ParentRef": "0lMcNlRVt0KFWWV5JL2NDQ/g2aAnkKuEEWr0dF3ru-czQ",
+  "Created": "2026-10-23T13:01:44.0347021Z",
+  "Updated": "2026-10-24T12:04:01.2523352Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

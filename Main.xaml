@@ -86,7 +86,7 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="845.3333333333334,644" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="846,644" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dt_ouput" />
     </Sequence.Variables>
@@ -104,7 +104,7 @@
       </ui:ReadRange.Range>
     </ui:ReadRange>
     <Parallel sap:VirtualizedContainerService.HintSize="845.3333333333334,215.33333333333334" sap2010:WorkflowViewState.IdRef="Parallel_1">
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" DisplayName="WebDataCapturing - Invoke Workflow File (WebDataCapturing.xaml)" sap:VirtualizedContainerService.HintSize="377.3333333333333,145.33333333333334" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" UnSafe="False" WorkflowFileName="WebDataCapturing.xaml">
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" DisplayName="WebDataCapturing - Invoke Workflow File (WebDataCapturing.xaml)" sap:VirtualizedContainerService.HintSize="377.3333333333333,145.33333333333334" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_5" UnSafe="False" WorkflowFileName="WebDataCapturing.xaml">
         <ui:InvokeWorkflowFile.Arguments>
           <InArgument x:TypeArguments="sd:DataTable" x:Key="in_dt_output">[dt_ouput]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Gender",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9iszDI3g-UqD-WoRPbiFng",
+  "Reference": "0lMcNlRVt0KFWWV5JL2NDQ/9iszDI3g-UqD-WoRPbiFng",
+  "ParentRef": "0lMcNlRVt0KFWWV5JL2NDQ/g2aAnkKuEEWr0dF3ru-czQ",
+  "Created": "2026-10-24T10:32:29.6326683Z",
+  "Updated": "2026-10-24T10:32:29.6326683Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

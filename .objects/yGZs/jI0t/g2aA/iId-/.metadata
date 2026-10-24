@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Work Email",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "iId-Qsfop0uO1yBTK_PX_A",
+  "Reference": "0lMcNlRVt0KFWWV5JL2NDQ/iId-Qsfop0uO1yBTK_PX_A",
+  "ParentRef": "0lMcNlRVt0KFWWV5JL2NDQ/g2aAnkKuEEWr0dF3ru-czQ",
+  "Created": "2026-10-23T13:36:41.0499157Z",
+  "Updated": "2026-10-24T12:06:26.0382077Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

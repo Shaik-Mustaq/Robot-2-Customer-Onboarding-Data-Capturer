@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Add Customer",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "p2ijxNR8PEiG9-Tqoi98Iw",
+  "Reference": "0lMcNlRVt0KFWWV5JL2NDQ/p2ijxNR8PEiG9-Tqoi98Iw",
+  "ParentRef": "0lMcNlRVt0KFWWV5JL2NDQ/YEiOYoaDskyj51RHBblgtg",
+  "Created": "2026-10-24T12:08:27.0954935Z",
+  "Updated": "2026-10-24T12:08:27.0954935Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

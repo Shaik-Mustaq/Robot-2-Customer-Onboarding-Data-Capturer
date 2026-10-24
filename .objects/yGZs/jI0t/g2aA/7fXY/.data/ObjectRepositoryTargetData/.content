@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IIPY6aaOwUuAKEdthRZvuA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ca980b71-394b-413d-ae2f-f1898608d8cd" CvElementArea="323, 279, 217, 41" CvType="InputBox" DesignTimeRectangle="324, 281, 216, 41" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='TkChild' idx='23' /&gt;" Guid="267d9d0e-bc9f-451c-a3d4-f997b4a1d865" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='The Automation Challenge | CRM App' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="18, 282, 44, 40" FullSelectorArgument="&lt;wnd cls='TkChild' idx='24' /&gt;&lt;ctrl role='client' /&gt;" Guid="5a1b7203-6ccd-43b5-917d-28cdce8e2676" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e964f3fdc6a5b7fa8e18d7cd5d860e50.jpg" xmlns="">0RoLEcqh5G0O_UxTrzucipQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

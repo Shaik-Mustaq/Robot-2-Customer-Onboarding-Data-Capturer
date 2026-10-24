@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9jjk9qiH1U6opxTkn-MHSw" Reference="vsp21rmUb0SVFfhv5G4BeQ/dIq_h2vevU234deUTvVLfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b404aa3e-1e5c-403a-8255-b006cbc33a63" CvTextArea="3, 4, 39, 18" CvTextArgument="[CurrentRow(&quot;gender&quot;).ToString]" CvType="Text" DesignTimeRectangle="1, 4, 40, 16" ElementType="Text" ElementVisibilityArgument="[UiPath.UIAutomationNext.Enums.NElementVisibility.Visible]" Guid="d3032870-d1f1-491e-b98a-8480d42b6891" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='popdown' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fd98703176b88ba90faf902bb037ff57.png" xmlns="">fd98703176b88ba90faf902bb037ff57.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
